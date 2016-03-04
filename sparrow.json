@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name" : "swat-dancer2-auth-extensible",
     "description": "swat intergration tests for Dancer2 authentication capabilities",
     "url" : "https://github.com/melezhik/swat-dancer2-auth-extensible"

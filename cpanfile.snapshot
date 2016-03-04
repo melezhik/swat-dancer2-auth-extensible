@@ -1334,10 +1334,10 @@ DISTRIBUTIONS
     requirements:
       ExtUtils::MakeMaker 0
       perl 5.008001
-  swat-0.1.85
-    pathname: M/ME/MELEZHIK/swat-0.1.85.tar.gz
+  swat-0.1.86
+    pathname: M/ME/MELEZHIK/swat-0.1.86.tar.gz
     provides:
-      swat 0.001085
+      swat 0.001086
       swat::story undef
     requirements:
       Config::Tiny 0

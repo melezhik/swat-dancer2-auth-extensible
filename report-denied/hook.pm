@@ -1,6 +1,10 @@
 use swat::app;
 start_app();
 
+run_swat_module(
+    POST => '/logout'
+);
+
 
 run_swat_module(
     GET => '/report', 

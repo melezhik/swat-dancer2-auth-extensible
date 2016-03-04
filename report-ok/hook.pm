@@ -3,6 +3,11 @@ start_app();
 
 
 run_swat_module(
+    POST => '/logout'
+);
+
+
+run_swat_module(
     POST => '/login' ,
     {
         username => 'foo',
