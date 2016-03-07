@@ -24,8 +24,4 @@ run_swat_module(
     }
 );
 
-set_response('done');
-
-1;
-
 
